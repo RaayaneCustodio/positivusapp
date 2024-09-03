@@ -55,12 +55,21 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 100px;
+    gap: 32px;
 }
 
 .hero-teste{
     display: flex;
     justify-content: space-between;
+    gap: 100px;
+}
+
+.logotypes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 100px 0px 100px;
+    gap: 96.46px;
 }
 
 .about-us {
