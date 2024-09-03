@@ -5,3 +5,43 @@
     font-family: "Space Grotesk";
 }
 
+.menu{
+    margin: 38px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 198.36px;
+    
+}
+
+.menu-image{
+    width: 219.54px ;
+    height: 36px;
+}
+
+.menu-nav{
+    display: flex;
+    list-style-type: none;
+    gap: 40px;
+    font-size: 20px;
+    font-weight: 400px;
+}
+
+.menu-nav a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.content{
+
+}
+.hero-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero-teste{
+    display: flex;
+    justify-content: space-between;
+}
